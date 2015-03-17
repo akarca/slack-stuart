@@ -1,12 +1,12 @@
 module.exports = {
 
   // Stuart server parameters required for Twilio integration
-  "host"   : "http://localhost",
+  "host"   : "http://yuix.org",
   "port"   : "8087",
 
   // The Bot Persona
   "name"   : "tavuk",
-  "emoji"  : ":construction_worker:",
+  "emoji"  : ":rooster:",
 
   // The Slack host
   //
