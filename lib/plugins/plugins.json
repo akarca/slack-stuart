@@ -26,17 +26,16 @@
 	    },
 
 	    "food" : {
-	    	"active" : false,
+	    	"active" : true,
 	    	"name"   : "Get food recommendations from Yelp",
 	    	"hook"   : "./plugins/slash/yelp",
 	    	"author" : "greg",
 	    	"config" : {
-                "key" : "FIXME",
-                "secret" : "FIXME",
-                "token" : "FIXME",
-                "token_secret" : "FIXME",
-
-                "location" : "43.073841, -89.388692"
+                "key" : "dBge6ApuGcD2vgIWXJoE7w",
+                "secret" : "w5omQY0-1KT2Fyx4fVtKZcstQiU",
+                "token" : "yVVlWS9-EuX8KT43rB52v2ekgC5UPmvG",
+                "token_secret" : "vFiPWp3_qlxtqr7CodKSFJlCeiE",
+                "location" : "40.9094311,29.1902829"
             }
 	    },
 
