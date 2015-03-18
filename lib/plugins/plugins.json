@@ -25,7 +25,7 @@
 	        "config" : {}
 	    },
 
-	    "food" : {
+	    "neyesek" : {
 	    	"active" : true,
 	    	"name"   : "Get food recommendations from Yelp",
 	    	"hook"   : "./plugins/slash/yelp",
